@@ -1,22 +1,39 @@
-1.0.0.143#LAX
-1.1.1.6#LAX
-102.177.176.186#LAX
-102.177.189.104#LAX
-103.11.212.40#SJC
-103.11.214.207#LAX
-103.169.142.140#LAX
-103.172.111.88#LAX
-103.21.244.236#LAX
-104.129.164.115#LAX
-104.20.17.199#HKG
-104.20.19.78#HKG
-104.20.20.45#HKG
-104.20.21.67#HKG
-104.20.22.36#HKG
-104.20.23.168#HKG
-104.20.24.149#HKG
-104.20.25.214#HKG
-104.20.26.8#HKG
-104.20.28.191#HKG
-162.159.160.68#FRA
-172.64.233.86#FRA
+1.0.0.56#LAX-Los Angeles-North America
+1.1.1.41#LAX-Los Angeles-North America
+102.177.176.181#LAX-Los Angeles-North America
+102.177.189.226#LAX-Los Angeles-North America
+103.11.212.123#SJC-San Jose-North America
+103.11.214.241#LAX-Los Angeles-North America
+103.169.142.174#LAX-Los Angeles-North America
+103.172.111.77#LAX-Los Angeles-North America
+103.21.244.27#LAX-Los Angeles-North America
+104.129.164.62#LAX-Los Angeles-North America
+104.129.165.146#LAX-Los Angeles-North America
+104.129.166.229#LAX-Los Angeles-North America
+104.129.167.48#LAX-Los Angeles-North America
+104.16.0.8#SJC-San Jose-North America
+104.16.1.64#SJC-San Jose-North America
+104.20.16.100#HKG-Hong Kong-Asia Pacific
+104.20.17.241#HKG-Hong Kong-Asia Pacific
+104.20.18.29#HKG-Hong Kong-Asia Pacific
+104.20.19.227#HKG-Hong Kong-Asia Pacific
+104.20.20.76#HKG-Hong Kong-Asia Pacific
+104.20.21.182#HKG-Hong Kong-Asia Pacific
+104.20.22.143#HKG-Hong Kong-Asia Pacific
+104.20.23.191#HKG-Hong Kong-Asia Pacific
+104.20.24.40#HKG-Hong Kong-Asia Pacific
+104.20.25.198#HKG-Hong Kong-Asia Pacific
+104.20.26.118#HKG-Hong Kong-Asia Pacific
+104.20.27.208#HKG-Hong Kong-Asia Pacific
+104.20.28.102#HKG-Hong Kong-Asia Pacific
+104.20.29.109#HKG-Hong Kong-Asia Pacific
+104.20.30.47#HKG-Hong Kong-Asia Pacific
+141.101.90.96#CDG-Paris-Europe
+162.159.160.234#FRA-Frankfurt-Europe
+172.64.233.226#FRA-Frankfurt-Europe
+172.65.168.145#CDG-Paris-Europe
+172.65.197.169#CDG-Paris-Europe
+172.65.200.166#MAD-Madrid-Europe
+172.65.236.116#MRS-Marseille-Europe
+172.65.245.254#CDG-Paris-Europe
+172.65.249.46#MAD-Madrid-Europe
